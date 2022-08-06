@@ -1,0 +1,33 @@
+.header {
+  background: url(./images/AdobeStock_202169920-scaled\ 1.png);
+  width: 100%;
+  height: 500px;
+}
+.header__info {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 5px;
+}
+
+.header h1 {
+  color: rgb(175, 95, 95);
+}
+.header h5 {
+  color: rgb(139, 126, 68);
+}
+.content {
+  background: url(https://cdn.pixabay.com/photo/2016/03/15/02/42/floor-1256804_960_720.jpg);
+}
+.footer {
+  background: rgba(236, 240, 241, 0.48);
+  height: 100%;
+}
+.navbarend {
+  background: url(https://cdn.pixabay.com/photo/2014/09/19/12/30/pencils-452238_960_720.jpg)
+    no-repeat;
+  height: 500px;
+}
